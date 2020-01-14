@@ -1,5 +1,5 @@
 ---
-title: My First Article yes
+title: 'My First Article '
 abstract: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
